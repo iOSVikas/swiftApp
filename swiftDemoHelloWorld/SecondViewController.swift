@@ -14,7 +14,7 @@ class SecondViewController: UIViewController, UITableViewDataSource , UITableVie
     @IBOutlet var listTableView: UITableView!
     override func viewDidLoad() {
         super.viewDidLoad()
-
+        print("Vikas")
         // Do any additional setup after loading the view.
     }
 
